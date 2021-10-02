@@ -1,6 +1,6 @@
 ## Welcome to my Github profile!
 
-Ever since I found out about tech I have been rigorously learning everything I could get my hands on. To benefit from the structured learning that the Internet provides I have followed the OSSU path to free self-taught education in Computer Science. I have successfully completed the following courses which can be found on my Github:
+Ever since I found out about tech I have been rigorously learning everything I could get my hands on. To benefit from the structured learning that the Internet provides I have followed the OSSU [](https://github.com/ossu/computer-science) path to free self-taught education in Computer Science. I have successfully completed the following courses which can be found on my Github:
 
 - CS 50
 - Algorithms & Data Structures
