@@ -3,6 +3,7 @@
 Ever since I found out about tech I have been rigorously learning everything I could get my hands on. To benefit from the structured learning that the Internet provides I have followed the OSSU path to free self-taught education in Computer Science. I have successfully completed the following courses which can be found on my Github:
 
 - CS 50
+- Algorithms & Data Structures
 - Build a Modern Computer from First Principles: From Nand to Tetris
 - Build a Modern Computer from First Principles: Nand to Tetris Part II
 - Operating Systems: Three Easy Pieces
