@@ -1,5 +1,16 @@
 ## Welcome to my Github profile!
 
+Ever since I found out about tech I have been rigorously learning everything I could get my hands on. To benefit from the structured learning that the Internet provides I have followed the OSSU path to free self-taught education in Computer Science. I have successfully completed the following courses which can be found on my Github:
+
+- CS 50
+- Build a Modern Computer from First Principles: From Nand to Tetris
+- Build a Modern Computer from First Principles: Nand to Tetris Part II
+- Operating Systems: Three Easy Pieces
+- Computer Networking: a Top-Down Approach
+- UBCx's Software Development MicroMasters, Software Construction: Object-Oriented Design
+- University of Helsinki Java 1 & 2
+
+
 ### Tech stack
 
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /><img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /><img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" /> <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" /><img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /><img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" /><img height="32" width="32" src="https://user-images.githubusercontent.com/36604614/135607948-7914e35f-a4b3-4557-847e-66da1da54239.png" /><img height="32" width="32" src="https://img.icons8.com/color/48/000000/graphql.png" />
