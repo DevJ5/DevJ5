@@ -1,6 +1,6 @@
 ## Welcome to my Github profile!
 
-Ever since I found out about tech I have been rigorously learning everything I could get my hands on. To benefit from the structured learning that the Internet provides I have followed the  [OSSU](https://github.com/ossu/computer-science) path to free self-taught education in Computer Science. I have successfully completed the following courses which can be found on my Github:
+Hi! Thank you for landing on my personal Github profile :) Ever since I found out about tech I have been rigorously learning everything I could get my hands on. To benefit from the structured learning that the Internet provides I followed the  [OSSU](https://github.com/ossu/computer-science) path to free self-taught education in Computer Science. The following succesfully completed courses can be found on my Github:
 
 - CS 50
 - Algorithms & Data Structures
@@ -11,7 +11,7 @@ Ever since I found out about tech I have been rigorously learning everything I c
 - UBCx's Software Development MicroMasters, Software Construction: Object-Oriented Design
 - University of Helsinki Java 1 & 2
 
-🌱 My motto is:  If I don't know it, I can learn it!
+🌱 The main thing I love about tech is the logic and the endless deepening of understanding how bits and bytes work.
 
 
 ### Tech stack
