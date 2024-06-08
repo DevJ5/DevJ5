@@ -28,6 +28,10 @@ Hi! Thank you for landing on my personal Github profile :) Ever since I found ou
 <img src='https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg' width=45></img>
 <img src='https://www.kali.org/tools/netcat/images/netcat-logo.svg' width=45></img>
 
+<h3> Leetcode Stats </h3>
+
+ ![Leetcode Stats](https://leetcard.jacoblin.cool/devj5?ext=heatmap&theme=dark)
+
 <!--
 **DevJ5/DevJ5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
