@@ -17,7 +17,7 @@ Hi! Thank you for landing on my personal Github profile :) Ever since I found ou
 ### Tech stack
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,python,java,c,bash&perline=" />
-    <img src="https://skillicons.dev/icons?i=mysql,postgresql,regex&perline=" />
+    <img src="https://skillicons.dev/icons?i=linux,mysql,postgresql&perline=" />
   </a>
 
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /><img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /><img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" /> <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" /><img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /><img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" /><img height="32" width="32" src="https://user-images.githubusercontent.com/36604614/135607948-7914e35f-a4b3-4557-847e-66da1da54239.png" /><img height="32" width="32" src="https://img.icons8.com/color/48/000000/graphql.png" />
