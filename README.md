@@ -21,6 +21,7 @@ Hi! Thank you for landing on my personal Github profile :) Ever since I found ou
   </a>
 
 ### Pentesting
+<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/512px-Kali-dragon-icon.svg.png' width=45></img>
 <img src='https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg' width=45></img>
 <img src='https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg' width=45></img>
 <img src='https://www.kali.org/tools/wireshark/images/wireshark-logo.svg' width=45></img>
