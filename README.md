@@ -16,8 +16,7 @@ Hi! Thank you for landing on my personal Github profile :) Ever since I found ou
 
 ### Tech stack
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,python,java,c,bash&perline=" />
-    <img src="https://skillicons.dev/icons?i=linux,mysql,postgresql&perline=" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,python,java,c,bash,linux,mysql,postgresql&perline=" />
   </a>
 
 ### Pentesting
