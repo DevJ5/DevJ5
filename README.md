@@ -20,8 +20,12 @@ Hi! Thank you for landing on my personal Github profile :) Ever since I found ou
     <img src="https://skillicons.dev/icons?i=linux,mysql,postgresql&perline=" />
   </a>
 
-<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /><img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /><img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" /> <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" /><img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /><img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" /><img height="32" width="32" src="https://user-images.githubusercontent.com/36604614/135607948-7914e35f-a4b3-4557-847e-66da1da54239.png" /><img height="32" width="32" src="https://img.icons8.com/color/48/000000/graphql.png" />
-<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /><img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" /> <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/python/python.png" /><img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/java/java.png" /><img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /> <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+### Pentesting
+<img src='https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg' width=45></img>
+<img src='https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg' width=45></img>
+<img src='https://www.kali.org/tools/wireshark/images/wireshark-logo.svg' width=45></img>
+<img src='https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg' width=45></img>
+<img src='https://www.kali.org/tools/netcat/images/netcat-logo.svg' width=45></img>
 
 <!--
 **DevJ5/DevJ5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
