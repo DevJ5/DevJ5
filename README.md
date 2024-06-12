@@ -1,17 +1,33 @@
 ## Welcome to my Github profile!
 
-Hi! Thank you for landing on my personal Github profile :) Ever since I found out about tech I have been rigorously learning everything I could get my hands on. To benefit from the structured learning that the Internet provides I followed the  [OSSU](https://github.com/ossu/computer-science) path to free self-taught education in Computer Science. The following succesfully completed courses can be found on my Github:
+Hi! Thank you for landing on my personal Github profile. Ever since I found out about tech I have been rigorously learning everything I could get my hands on. Being self taught in Front end, Back end, Cyber Security and since this year also Machine learning. Below you find a list what I did to grow as a human and a problem solver.
 
+For general computer science, I benifited from the structured learning that the Internet provides I followed the  [OSSU](https://github.com/ossu/computer-science) path to free self-taught education in Computer Science. The following succesfully completed courses can be found on my Github:
 - CS 50
 - Algorithms & Data Structures
-- Build a Modern Computer from First Principles: From Nand to Tetris
-- Build a Modern Computer from First Principles: Nand to Tetris Part II
+- Edx Intro To Csharp
+- Edx OOP In Csharp
+- UBCx Software Construction
+- Java Programming Part 1 of Helsinki
+- Java Programming Part 2 of Helsinki
+- Automate the boring stuff with Python
 - Operating Systems: Three Easy Pieces
 - Computer Networking: a Top-Down Approach
-- UBCx's Software Development MicroMasters, Software Construction: Object-Oriented Design
-- University of Helsinki Java 1 & 2
+- Build a Modern Computer from First Principles: From Nand to Tetris
+- Build a Modern Computer from First Principles: Nand to Tetris Part II
 
-🌱 The main thing I love about tech is the logic and the endless deepening of understanding how bits and bytes work.
+For cyber security I took the following route:
+- OTW Bandit
+- Virtual hacking labs
+- All of BurpSuite labs
+- TryHackMe
+- PWK Labs/OSCP
+
+I am currently working on Machine Learning and taking the following courses:
+- 
+
+
+🌱 What I love about tech is the logic and the enormous possibilities it presents us as humanity.
 
 
 ### Tech stack
