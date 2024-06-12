@@ -2,7 +2,8 @@
 
 Hi! Thank you for landing on my personal Github profile. Ever since I found out about tech I have been rigorously learning everything I could get my hands on. Being self taught in Front end, Back end, Cyber Security and since this year also Machine learning. Below you find a list what I did to grow as a human and a problem solver.
 
-For general computer science, I benifited from the structured learning that the Internet provides I followed the  [OSSU](https://github.com/ossu/computer-science) path to free self-taught education in Computer Science. The following succesfully completed courses can be found on my Github:
+For general computer science, I benefitted from the structured learning that the Internet provides I followed the  [OSSU](https://github.com/ossu/computer-science) path to free self-taught education in Computer Science. The following succesfully completed courses can be found on my Github:
+
 - CS 50
 - Algorithms & Data Structures
 - Edx Intro To Csharp
@@ -17,6 +18,7 @@ For general computer science, I benifited from the structured learning that the 
 - Build a Modern Computer from First Principles: Nand to Tetris Part II
 
 For cyber security I took the following route:
+
 - OTW Bandit
 - Virtual hacking labs
 - All of BurpSuite labs
@@ -24,7 +26,7 @@ For cyber security I took the following route:
 - PWK Labs/OSCP
 
 I am currently working on Machine Learning and taking the following courses:
-- 
+
 
 
 🌱 What I love about tech is the logic and the enormous possibilities it presents us as humanity.
