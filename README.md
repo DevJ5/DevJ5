@@ -17,7 +17,7 @@ For general computer science, I benefitted from the structured learning that the
 - Build a Modern Computer from First Principles: From Nand to Tetris
 - Build a Modern Computer from First Principles: Nand to Tetris Part II
 
-For cyber security I took the following route:
+For Cyber Security I took the following route:
 
 - OTW Bandit
 - Virtual hacking labs
