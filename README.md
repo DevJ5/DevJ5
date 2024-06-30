@@ -9,6 +9,7 @@ For general computer science, I benefitted from the structured learning that the
 - Edx Intro To Csharp
 - Edx OOP In Csharp
 - UBCx Software Construction
+- UBCx Software Construction Part 2
 - Java Programming Part 1 of Helsinki
 - Java Programming Part 2 of Helsinki
 - Automate the boring stuff with Python
@@ -26,7 +27,8 @@ For Cyber Security I took the following route:
 - PWK Labs/OSCP
 
 I am currently working on Machine Learning and taking the following courses:
-
+- Data Analysis with Python 2023-2024
+- 
 
 
 🌱 What I love about tech is the logic and the enormous possibilities it presents us as humanity.
