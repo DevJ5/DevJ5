@@ -29,6 +29,7 @@ For **Cyber Security** I took the following route:
 I am currently working on **Machine Learning** and have taken the following courses:
 - Data Analysis with Python 2023-2024 (University of Helsinki)
 - Linear Algebra for Machine Learning and Data Science (Deeplearning.ai)
+- IBM- Machine Learning with Python
 
 
 🌱 What I love about tech is the logic and the enormous possibilities it presents us as humanity.
