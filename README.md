@@ -30,6 +30,7 @@ I am currently working on **Machine Learning** and have taken the following cour
 - Data Analysis with Python 2023-2024 (University of Helsinki)
 - Linear Algebra for Machine Learning and Data Science (Deeplearning.ai)
 - IBM's Machine Learning with Python
+- Leetcode SQL 50
 
 
 🌱 What I love about tech is the logic and the enormous possibilities it presents us as humanity.
