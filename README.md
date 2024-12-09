@@ -38,7 +38,14 @@ I am currently working on **Machine Learning** and have taken the following cour
 
 ### Tech stack
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,java,c,bash,linux,mysql,postgresql&perline=" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,angular,java,bash,linux,mysql,postgresql,aws&perline=" />
+    <img src="https://skillicons.dev/icons?i=python,anaconda&perline=" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,angular,java,bash,linux,mysql,postgresql,aws&perline=" />
+    <img src="https://skillicons.dev/icons?i=python,anaconda&perline=" />
+  </a>
+  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,anaconda&perline=" />
   </a>
 
