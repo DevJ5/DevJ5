@@ -38,17 +38,23 @@ I am currently working on **Machine Learning** and have taken the following cour
 
 ### Tech stack
 ## Web
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,angular,react,redux,jest,nodejs,webpack&perline=" />
-  </a>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,angular,react,redux,jest,nodejs,webpack&perline=" />
+</a>
+
+<br>
+
 ## Cloud
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,linux,mysql,postgresql,aws,gcp&perline=" />
-  </a>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=bash,linux,mysql,postgresql,aws,gcp&perline=" />
+</a>
+
+<br>
+
 ## Machine Learning
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,anaconda&perline=" />
-  </a>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,anaconda&perline=" />
+</a>
 
 ### Pentesting
 <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/512px-Kali-dragon-icon.svg.png' width=45></img>
