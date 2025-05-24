@@ -20,13 +20,13 @@ For **General Computer Science**, I followed the  [OSSU](https://github.com/ossu
 
 For **Cyber Security** I took the following route:
 
-- OTW Bandit
+- PWK Labs/OSCP
 - Virtual hacking labs
 - All of BurpSuite labs
 - TryHackMe
-- PWK Labs/OSCP
+- OTW Bandit
 
-I am currently working on **Machine Learning** and have taken the following courses:
+For **Machine Learning** I have taken the following courses:
 - Data Analysis with Python 2023-2024 (University of Helsinki)
 - Linear Algebra for Machine Learning and Data Science (Deeplearning.ai)
 - IBM's Machine Learning with Python
