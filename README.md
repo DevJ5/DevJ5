@@ -46,7 +46,7 @@ For **Machine Learning** I have taken the following courses:
 
 ## Cloud
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=bash,linux,mysql,postgresql,aws,gcp&perline=" />
+  <img src="https://skillicons.dev/icons?i=bash,linux,mysql,postgresql,aws,gcp,docker&perline=" />
 </a>
 
 <br>
