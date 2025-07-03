@@ -61,7 +61,6 @@ For **Machine Learning** I have taken the following courses:
 <img src='https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg' width=45></img>
 <img src='https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg' width=45></img>
 <img src='https://www.kali.org/tools/wireshark/images/wireshark-logo.svg' width=45></img>
-<img src='https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg' width=45></img>
 <img src='https://www.kali.org/tools/netcat/images/netcat-logo.svg' width=45></img>
 
 <h3> Leetcode Stats </h3>
