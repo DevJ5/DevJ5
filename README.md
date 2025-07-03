@@ -24,6 +24,8 @@ For **Cyber Security** I took the following route:
 - Virtual hacking labs
 - All of BurpSuite labs
 - TryHackMe
+- HackTheBox
+- CyberSecLabs
 - OTW Bandit
 
 For **Machine Learning** I have taken the following courses:
