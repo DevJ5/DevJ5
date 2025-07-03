@@ -39,14 +39,14 @@ For **Machine Learning** I have taken the following courses:
 ### Tech stack
 ## Web
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,angular,react,redux,jest,nodejs,webpack&perline=" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,angular,react,vue,redux,jest,nodejs,express,webpack,flask,django&perline=" />
 </a>
 
 <br>
 
 ## Cloud
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=bash,linux,mysql,postgresql,aws,gcp,docker&perline=" />
+  <img src="https://skillicons.dev/icons?i=bash,linux,mysql,postgresql,aws,gcp,docker,kubernetes&perline=" />
 </a>
 
 <br>
